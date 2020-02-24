@@ -11,6 +11,9 @@ public class TestDemoApplicationTests {
 
     @Test
     public void contextLoads() {
+
+        System.out.println("====");
+
     }
 
 }
