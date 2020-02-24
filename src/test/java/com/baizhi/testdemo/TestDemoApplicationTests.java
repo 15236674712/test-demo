@@ -18,6 +18,7 @@ public class TestDemoApplicationTests {
         System.out.println("dev add ");
         System.out.println("Github add ");
         System.out.println("IDEA add ");
+        System.out.println("Two IDEA add ");
     }
 
 }
